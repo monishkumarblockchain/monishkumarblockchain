@@ -1,4 +1,4 @@
-# Monish
+# Monish Kumar
 Hello guys ,I am Monish Kumar
 <h1 align="center">Hi 👋, I'm Monish Kumar</h1>
 <h3 align="center">A passionate Python full stack developer and machine learning</h3>
